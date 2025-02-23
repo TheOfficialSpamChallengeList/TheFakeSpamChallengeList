@@ -26,6 +26,12 @@
             "link": "https://www.youtube.com/watch?v=O1idN-CVlO8",
             "hz": 60,
             "percent": 100
+        },
+        {
+        "user": "ywuChaos",
+        "link": "https://youtu.be/AKAU5F_PI1g",
+        "hz": "60",
+        "percent": 100
         }
     ]
 }

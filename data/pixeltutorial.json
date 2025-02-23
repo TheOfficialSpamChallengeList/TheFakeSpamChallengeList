@@ -9,5 +9,16 @@
     "handcam": 0,
     "fps": 60,
     "records": [
+        {
+          "user": "PaperGuy",
+          "hz": 60,
+          "percent": 100
+        }
+        {
+          "user": "galbeni7",
+          "hz": 60,
+          "link": "https://youtube.com/shorts/ypwRdRTJIYE",
+          "percent": 100
+        }
     ]
 }
