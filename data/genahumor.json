@@ -9,11 +9,17 @@
     "handcam": 0,
     "fps": "90",
     "records": [
-        {
-        "user": "PaperGuy",
+      {
+      "user": "PaperGuy",
       "link": "https://www.youtube.com/watch?v=aXF0d41Kg40",
       "hz": 90,
       "percent": 100
-        }
+      },
+      {
+      "user": "galbeni7",
+      "link": "https://www.youtube.com/watch?v=Vd7gstcz6BQ",
+      "hz": 90,
+      "percent": 100
+      }
     ]
 }
