@@ -1,0 +1,19 @@
+{
+    "id": 115416039,
+    "name": "ltlvc4",
+    "author": "Pastelliano",
+    "creators": [],
+    "verifier": "Pastelliano",
+    "verification": "https://youtu.be/jUPcluOZGtA",
+    "percentToQualify": "100",
+    "handcam": 0,
+    "fps": "63.25",
+    "records": [
+        {
+        "user": "ywuChaos",
+        "link": "https://discord.com/channels/1268386437116465205/1268386884934172767/1343032333116248185",
+        "hz": 63.25,
+        "percent": 100
+        }
+    ]
+}
