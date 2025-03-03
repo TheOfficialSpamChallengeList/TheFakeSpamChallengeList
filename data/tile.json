@@ -9,11 +9,17 @@
     "handcam": 0,
     "fps": "68",
     "records": [
-        {
-        "user": "PaperGuy",
+      {
+      "user": "PaperGuy",
       "link": "https://youtu.be/9FZGqjyfl_Q",
       "hz": 68,
       "percent": 100
-        }
+      },
+      {
+      "user": "ywuChaos",
+      "link": "https://youtu.be/JQYtOTQMoq8",
+      "hz": 68,
+      "percent": 100
+      }
     ]
 }
