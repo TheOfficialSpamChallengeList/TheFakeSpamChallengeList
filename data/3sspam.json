@@ -7,7 +7,7 @@
     "verification": "https://youtu.be/H88gzlYgv1I?t=155",
     "percentToQualify": "100",
     "handcam": 0,
-    "capped": 2,
+    "device": "All",
     "fps": "60",
     "records": [
     ]
