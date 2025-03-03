@@ -60,7 +60,7 @@ export default {
                     <p v-else-if="selected +1 <= 100"><strong>100%</strong> or better to qualify</p>
                     <p v-else>This level does not accept new records.</p>
                     <p><strong>Handcam is {{['not needed', 'recommended', 'necessary'][level.handcam]}} for this level.</strong></p>
-                    <p><strong>Level is {{[level.device]}}.</strong></p>
+                    <p><strong>Device: {{level.device}}.</strong></p>
                     <table class="records">
                         <tr v-for="record in level.records" class="record">
                             <td class="percent">
