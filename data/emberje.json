@@ -10,5 +10,11 @@
     "device": "Uncapped",
     "fps": "240/360",
     "records": [
+        {
+            "user": "pixelfactorial",
+            "hz": "CBF",
+            "link": "https://discord.com/channels/1268386437116465205/1268386862079283222/1347994081208303626",
+            "percent": 100
+        }
     ]
 }
