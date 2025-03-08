@@ -10,5 +10,11 @@
     "device": "All",
     "fps": "CBF",
     "records": [
+        {
+            "user": "PaperGuy",
+            "hz": "CBF",
+            "link": "https://www.youtube.com/watch?v=aLn6Obe-Xo4",
+            "percent": 100
+        }
     ]
 }
