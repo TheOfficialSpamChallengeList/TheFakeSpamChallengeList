@@ -10,5 +10,11 @@
     "device": "All",
     "fps": "68",
     "records": [
+        {
+        "user": "PaperGuy",
+      "link": "https://youtu.be/my-1GsFNgJM",
+      "hz": 68,
+      "percent": 100
+        }
     ]
 }
