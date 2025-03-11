@@ -11,6 +11,11 @@
     "fps": "70",
     "records": [
         {
+        "user": "PaperGuy",
+        "hz": "70",
+        "percent": 100
+        },
+        {
         "user": "galbeni7",
         "link": "https://www.youtube.com/watch?v=iz0FAfA4XPs",
         "hz": 70,
@@ -32,11 +37,6 @@
             "user": "pixelfactorial",
             "link": "https://discord.com/channels/1268386437116465205/1268386862079283222/1334394490902941708",
             "hz": 70,
-            "percent": 100
-        },
-        {
-            "user": "PaperGuy",
-            "hz": "CBF",
             "percent": 100
         }
     ]
