@@ -8,6 +8,7 @@
     "percentToQualify": "100",
     "handcam": 0,
     "fps": "CBF",
+    "device": "G502/G512",
     "records": [
     ]
 }
