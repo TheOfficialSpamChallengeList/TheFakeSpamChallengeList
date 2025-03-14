@@ -5,7 +5,7 @@
     "creators": [],
     "verifier": "nucleus",
     "verification": "https://youtu.be/yv8rIFnIxtQ",
-    "percentToQualify": 100,
+    "percentToQualify": "100",
     "handcam": 0,
     "device": "All",
     "fps": "60",
