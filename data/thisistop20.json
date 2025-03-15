@@ -21,6 +21,12 @@
             "hz": "CBF",
             "link": "https://www.youtube.com/watch?v=N_fMz_RQ9Gk",
             "percent": 100
+        },
+        {
+            "user": "ywuChaos",
+            "link": "https://youtu.be/sNclUv-fJ4g",
+            "hz": 60,
+            "percent": 100
         }
     ]
 }
