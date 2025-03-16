@@ -7,20 +7,8 @@
     "verification": "https://www.youtube.com/watch?v=XcXVc9SI85Y",
     "percentToQualify": "100",
     "handcam": 0,
-    "device": "G502/G512",
+    "device": "Uncapped",
     "fps": "240/360",
     "records": [
-        {
-        "user": "PaperGuy",
-        "link": "https://youtu.be/aTdklBCBjiI?t=549",
-        "hz": 240,
-        "percent": 100
-        },
-        {
-        "user": "galbeni7",
-        "link": "https://www.youtube.com/watch?v=cMK4ED3Vgbw",
-        "hz": "CBF",
-        "percent": 100
-        }
     ]
 }
