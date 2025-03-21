@@ -1,6 +1,6 @@
 {
-    "id": 64529938,
-    "name": "Spam Death",
+    "id": 116340301,
+    "name": "Spam Death Jitter",
     "author": "nintenfox",
     "creators": [],
     "verifier": "nintenfox",
@@ -9,41 +9,5 @@
     "handcam": 0,
     "device": "All",
     "fps": "60",
-    "records": [
-        {
-        "user": "PaperGuy",
-        "link": "https://youtu.be/AM5IgPY0s1I?si=jhw-oAyp4oE5TxQZ&t=11",
-        "hz": 60,
-        "percent": 100
-        },
-        {
-        "user": "EmpanadR",
-        "link": "https://youtu.be/RIeuoO0A3_Q?si=EO0VDK1tYB-MpYhp",
-        "hz": 60,
-        "percent": 100
-        },
-        {
-        "user": "pixelfactorial",
-        "hz": 60,
-        "percent": 100
-        },
-        {
-        "user": "galbeni7",
-        "link": "https://www.youtube.com/watch?v=hEywGIrlnHM",
-        "hz": 60,
-        "percent": 100
-        },
-        {
-            "user": "PureL",
-            "link": "https://youtu.be/tFysj9s6jbY",
-            "hz": "CBF",
-            "percent": 100
-        },
-        {
-            "user": "CoffeeChips",
-            "link": "https://www.youtube.com/watch?v=VMC51O7jzAYY",
-            "hz": "CBF",
-            "percent": 100
-        }
-    ]
+    "records": []
 }
