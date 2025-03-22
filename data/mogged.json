@@ -9,5 +9,11 @@
     "handcam": 0,
     "fps": "128",
     "records": [
+        {
+        "user": "ywuChaos",
+        "link": "https://youtu.be/UjxY09qutKE",
+        "hz": "128",
+        "percent": 100
+        }
     ]
 }
