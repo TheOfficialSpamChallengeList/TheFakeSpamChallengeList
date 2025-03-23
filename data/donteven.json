@@ -7,7 +7,7 @@
     "verification": "https://youtu.be/ckW3V9nT52w",
     "percentToQualify": "100",
     "handcam": 1,
-    "device": "All, except 16.67 cps capped devices",
+    "device": "All, devices with a 22.2cps cap or higher",
     "fps": "100",
     "records": [
     ]
