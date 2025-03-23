@@ -9,5 +9,24 @@
     "handcam": 0,
     "device": "All",
     "fps": "240/360",
-    "records": []
+    "records": [
+        {
+        "user": "Pikchassis",
+        "link": "https://youtu.be/s_R_wOX2rR0?si=i_Gbpk7v-ma1x7ix",
+        "hz": "CBF",
+        "percent": 100
+        },
+        {
+        "user": "pixelfactorial",
+        "link": "https://youtu.be/94MUQ1Eus9Y",
+        "hz": "CBF",
+        "percent": 100
+        },
+        {
+        "user": "galbeni7",
+        "link": "https://youtu.be/A5YxB_uDDI8",
+        "hz": "CBF",
+        "percent": 100
+        }
+]
 }

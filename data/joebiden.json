@@ -10,5 +10,17 @@
     "device": "All",
     "fps": "240/360",
     "records": [
+        {
+        "user": "pixelfactorial",
+        "link": "https://youtu.be/94MUQ1Eus9Y",
+        "hz": "CBF",
+        "percent": 100
+        },
+        {
+        "user": "galbeni7",
+        "link": "https://youtu.be/A5YxB_uDDI8",
+        "hz": "CBF",
+        "percent": 100
+        }
     ]
 }
