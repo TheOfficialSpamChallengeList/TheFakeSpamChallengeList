@@ -12,8 +12,14 @@
     "records": [
         {
             "user": "PaperGuy",
-            "hz": "CBF",
             "link": "https://www.youtube.com/watch?v=aLn6Obe-Xo4",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "Frozix",
+            "link": "https://www.youtube.com/watch?v=Z1HzqxOSJY8",
+            "hz": "CBF",
             "percent": 100
         }
     ]
