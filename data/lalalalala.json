@@ -6,6 +6,8 @@
     "verifier": "JRCGD",
     "verification": "https://m.youtube.com/watch?v=aV1N04ZFimk",
     "percentToQualify": "100",
+    "handcam": 0,
+    "device": "Balls",
     "fps": "240/360",
     "records": [
     ]
