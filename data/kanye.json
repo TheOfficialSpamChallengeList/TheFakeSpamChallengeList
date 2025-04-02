@@ -8,6 +8,13 @@
     "percentToQualify": "1 Hour",
     "handcam": 2,
     "device": "Facecam",
-    "fps": "Sit and Watch for 1 hour to get record accepted (:",
-    "records": []
+    "fps": "Sit and Watch full video to get record accepted (:",
+    "records": [
+        {
+        "user": "aelzfr",
+        "link": "https://www.youtube.com/watch?v=qqr_2uiM0J8&ab_channel=aelzfr",
+        "hz": "Facecame",
+        "percent": "1 Hour",
+        },
+    ]
 }
