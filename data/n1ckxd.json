@@ -6,9 +6,9 @@
     "verifier": "n1ckxd",
     "verification": "https://youtu.be/Bdu9PlEZRxg",
     "percentToQualify": "100",
-    "handcam": Black square handcam,
+    "handcam": 2,
     "device": "All of them",
-    "fps": 240/360,
+    "fps": "240/360",
     "records": [
     ]
 }
