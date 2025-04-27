@@ -1,0 +1,62 @@
+{
+    "id": 4000,
+    "name": "Spam Like Topi",
+    "author": "Topi",
+    "creators": [],
+    "verifier": "Topi",
+    "verification": "https://youtu.be/XjG1pJgxBpI?si=bE8A6w7SWfaNGMDv",
+    "percentToQualify": "101",
+    "handcam": 2,
+    "device": "You are only allowed to beat this if you are Topi.",
+    "fps": "360",
+    "records": [
+         {
+            "user": "Topi",
+            "link": "https://discord.com/channels/1268386437116465205/1268386862079283222/1356798547407671539",
+            "hz": 360,
+            "percent": 100
+        },
+         {
+            "user": "Topi",
+            "link": "https://discord.com/channels/1268386437116465205/1268386862079283222/1356798547407671539",
+            "hz": 360,
+            "percent": 100
+        },
+         {
+            "user": "Topi",
+            "link": "https://discord.com/channels/1268386437116465205/1268386862079283222/1356798547407671539",
+            "hz": 360,
+            "percent": 100
+        },
+         {
+            "user": "Topi",
+            "link": "https://discord.com/channels/1268386437116465205/1268386862079283222/1356798547407671539",
+            "hz": 360,
+            "percent": 100
+        },
+         {
+            "user": "Topi",
+            "link": "https://discord.com/channels/1268386437116465205/1268386862079283222/1356798547407671539",
+            "hz": 360,
+            "percent": 100
+        },
+         {
+            "user": "Topi",
+            "link": "https://discord.com/channels/1268386437116465205/1268386862079283222/1356798547407671539",
+            "hz": 360,
+            "percent": 100
+        },
+         {
+            "user": "Topi",
+            "link": "https://discord.com/channels/1268386437116465205/1268386862079283222/1356798547407671539",
+            "hz": 360,
+            "percent": 100
+        },
+         {
+            "user": "Topi",
+            "link": "https://discord.com/channels/1268386437116465205/1268386862079283222/1356798547407671539",
+            "hz": 360,
+            "percent": 100
+        }
+    ]
+}
